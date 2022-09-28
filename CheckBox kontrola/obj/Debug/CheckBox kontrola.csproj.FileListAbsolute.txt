@@ -1,0 +1,11 @@
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\bin\Debug\CheckBox kontrola.exe.config
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\bin\Debug\CheckBox kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\bin\Debug\CheckBox kontrola.pdb
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox_kontrola.Form1.resources
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox_kontrola.Properties.Resources.resources
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.GenerateResource.cache
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.exe
+C:\Users\ucenik\Documents\Luka Radetic\CheckBox kontrola\obj\Debug\CheckBox kontrola.pdb
